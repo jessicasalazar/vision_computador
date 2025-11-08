@@ -1,6 +1,6 @@
 # Computer Vision — Course Repository
 
-Minimal README for the **vision_computador** course repo. It lists the assignments and how to organize your work.
+**Vision_computador** course repo. It lists the assignments and how to organize your work.
 
 ## Assignments
 
@@ -23,6 +23,3 @@ Minimal README for the **vision_computador** course repo. It lists the assignmen
    Run **Segment Anything Model (SAM)** on sample images with point/box prompts and save mask results.
 
 ---
-
-## Repo Structure (suggested)
-
