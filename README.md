@@ -1,6 +1,6 @@
 # Computer Vision — Course Repository
 
-**Vision_computador** course repo. It lists the assignments and how to organize your work.
+**Computer Vision** course repo. It lists the assignments and how to organize your work.
 
 ## Assignments
 
